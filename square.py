@@ -9,3 +9,5 @@ for i in range(n):
         else:
          print(" ", end=" ")
     print("")  # Move to the next line after each row
+
+@@@@@
