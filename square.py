@@ -10,4 +10,3 @@ for i in range(n):
          print(" ", end=" ")
     print("")  # Move to the next line after each row
 
-@@@@@
